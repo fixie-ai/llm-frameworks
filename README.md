@@ -13,6 +13,7 @@ If you'd like to suggest additional alternatives, please open a PR.
 - [LlamaCloud by LLamaIndex](https://www.llamaindex.ai/enterprise) (waitlist)
 - [Azure AI Studio](https://azure.microsoft.com/en-us/products/ai-studio)
 - [Vertex AI by Google](https://cloud.google.com/vertex-ai?hl=en)
+- [Vectara - RAG as a Service](https://vectara.com)
 
 **DIY Agent Frameworks:**
 
